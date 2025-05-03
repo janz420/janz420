@@ -2,9 +2,9 @@
 
 ## Who am I?
 - a lazy person but wants to learn
-- A little bit familiar with C++, C#, PHP, JavaScript and Python
-- Bad in English
+- A little bit familiar with programming
 - Still understanding programming
+- Bad in English
 
 ## Things I'm interested in...
 - **Programming**
@@ -14,6 +14,7 @@
 ## Links and websites ran by me
 - [My server](http://bossranv2.com)
 - [My server 2](http://fantastikflix.com)
+- actually theres 2 more but i won't share it here for security reasons
 
 [![](https://github-readme-stats.vercel.app/api?username=janz420)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janz420&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
