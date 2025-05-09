@@ -1,7 +1,6 @@
 # Hi there! 😺
 
 ## Who am I?
-- a lazy person but wants to learn
 - A little bit familiar with programming
 - Still understanding programming
 - Bad in English
