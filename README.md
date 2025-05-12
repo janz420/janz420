@@ -8,7 +8,7 @@
 ## Things I'm interested in...
 - **Programming**
 - **Nostalgia**
-- **Eat** **Sleep** **Repeat**
+- **Computer** **Eat** **Sleep** **Repeat**
 
 ## Links and websites ran by me
 - [My server](http://bossranv2.com)
